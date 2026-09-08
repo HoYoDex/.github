@@ -4,7 +4,7 @@
 
 **The open, community-run index of every HoYoverse game.**
 
-[Website](https://www.hoyodex.com) · [Wiki](https://hoyodex.miraheze.org) · [Source](https://github.com/HoYoDex/web)
+[Website](https://hoyodex.com) · [Wiki](https://hoyodex.miraheze.org) · [Source](https://github.com/HoYoDex/web)
 
 </div>
 
