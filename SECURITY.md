@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report security issues privately to **security@hoyodex.com**, or via
+Please report security issues privately to **tech@hoyodex.com**, or via
 [GitHub's private advisory form](https://github.com/HoYoDex/web/security/advisories/new).
 
 Do not open a public issue for a security problem.
@@ -14,7 +14,7 @@ it. We aim to acknowledge reports within 72 hours.
 
 In scope:
 
-- `hoyodex.com` and the code in this repository
+- `www.hoyodex.com` and the code in this repository
 - The build and deployment pipeline
 
 Out of scope:

@@ -4,7 +4,7 @@
 
 **The open, community-run index of every HoYoverse game.**
 
-[Website](https://hoyodex.com) · [Wiki](https://hoyodex.miraheze.org) · [Source](https://github.com/HoYoDex/web)
+[Website](https://www.hoyodex.com) · [Wiki](https://hoyodex.miraheze.org) · [Source](https://github.com/HoYoDex/web)
 
 </div>
 
@@ -20,7 +20,7 @@ earlier Honkai titles — as one fast, searchable site.
 
 | Repo | What it is |
 |------|-----------|
-| [**web**](https://github.com/HoYoDex/web) | The website — Astro 7 on Cloudflare Workers |
+| [**web**](https://github.com/HoYoDex/web) | The website — Astro 7, deployed on Vercel |
 
 ### Contributing
 
